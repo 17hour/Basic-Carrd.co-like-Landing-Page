@@ -1,6 +1,0 @@
-Change background to solid 031321
-Either import Lato or Use Consolas
-Maybe Add text
-Add Instagram Logo
-Hyperlink it
-Do something with Javascript, like maybe an animation in the background
