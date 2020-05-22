@@ -1,4 +1,4 @@
-Change Background animation
+Add a black transparent png over the background so the background is darker
 Import Lato or similar font
 Maybe Add text
 Add Instagram Logo
