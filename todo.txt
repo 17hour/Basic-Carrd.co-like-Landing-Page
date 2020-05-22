@@ -1,0 +1,3 @@
+Import Lato or similar font
+Add text
+Maybe create a transparent white box over the whole thing
