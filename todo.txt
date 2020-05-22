@@ -1,3 +1,5 @@
 Import Lato or similar font
-Add text
-Maybe create a transparent white box over the whole thing
+Maybe Add text
+Add Instagram Logo
+Hyperlink it
+Do something with Javascript, like maybe an animation in the background
