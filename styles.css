@@ -1,0 +1,19 @@
+body {
+    background-image: url(Assets/Images/night.gif);
+}
+
+.container {
+    position: relative;
+}
+
+.twitter {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  
+    margin: -100px 0 0 -100px;
+}
